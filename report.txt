@@ -1,0 +1,8 @@
+
+AI-Enhanced Lead Scoring Report
+
+Problem: Businesses often struggle to prioritize which leads to follow. We implement an AI model to score and rank leads.
+
+Approach: We simulate firmographic and engagement data and train a logistic regression model to score leads.
+
+Value: This allows sales teams to target the most promising leads, improving conversion rates.
